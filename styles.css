@@ -1,0 +1,219 @@
+a{
+    text-decoration: none;
+}
+
+.background-image{
+    background: url('images/Ellipse\ 180.svg');
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+
+}
+
+.bar-status{
+    width: 414px;
+    height: 44px;
+    opacity: 1;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px 0px 40px;
+    margin-bottom: 15px;
+}
+
+
+.btn-cart{
+    width: 342px;
+    height: 57px ;
+    border-radius: 25px;
+    margin-top: 15px;
+    position: relative;
+    right: 70px;
+    bottom: 25px;
+}
+
+.cart-details{
+    width: 361.5px;
+    height: 178px;
+    margin: 70px 25px 30px 25px;
+}
+
+.container{
+    width: 414px;
+    height: 1106px;
+    padding: 0px;
+}
+
+.container-index{
+    position: relative;
+    z-index : 2;
+}
+
+
+.detail{
+
+    color: #000000;
+}
+
+.ecllipse{
+    position: relative;
+    right: 205px;
+    bottom: 250px;
+    width: 30%;
+    z-index: 1;
+}
+
+.fas47-icon{
+    padding-left: 25px;
+
+}
+
+.fa-angle-left{
+    font-size: 36px;
+    margin-left: 25px;
+
+}
+
+.groupCart{
+    width: 414px;
+    height: 137px;
+    display: flex;
+    align-items:center;
+    border-bottom: #D1D4D8;
+    background-position: right;
+}
+
+.group47{
+    width: 354px;
+    height: 60px;
+    margin: 0 auto 15px auto;
+    justify-content: center;
+    margin: 0 30px 18px 30px;
+
+}
+.group47-icon{
+    float: right;
+    padding-right: 5px;
+    padding-top: 15px; 
+}
+    
+
+.groupImages{
+    overflow-x: 0;
+    overflow-y: 339pt;
+    padding:0px;
+    padding-bottom: 0; 
+}
+
+.groupVibes{
+    width: 359px;
+    height: 100px;
+    margin-top: 25px;
+}
+
+.h4, h5{
+    font-size: 16px;
+
+}
+
+.hero-content{
+    display: inline-block;
+}
+
+.highlights{
+    width: 303px;
+    font-weight: bold;
+    font-size: 16px;
+    margin: 15px 15px 26px 30px ;
+
+}
+
+.home-2-div{
+    width: 414px;
+    height: 423px;
+    margin: 0 auto;
+    padding: 30px 10px 45px 25px;
+    background-color: #D1D4D8;
+    position: relative;
+    display: flex;
+}
+
+.home-2-images{
+    width: 353px;
+    height: auto;
+    margin: 0 auto;
+    margin-bottom: 100px;
+    
+}
+
+
+.logo{
+    position: relative;
+    left:40%;  
+}
+
+.original{
+    width: 354px ;
+    height: auto;
+    text-align: left;
+    margin: 29px 30px 13px 20px ;
+    font-size: 16px;
+    font-weight: bold;
+    line-height: 25px;
+    color: #000000;
+}
+
+.price{
+    font-weight: bold;
+    margin-left: 50%;
+}
+
+.red-text{
+    color: #F72626;
+    font-weight: 800px;
+}
+
+
+.space{
+    margin-left: 10px;
+}
+
+.spec{
+    background-color:#D6D6D6 ;
+    margin-bottom: 20px;
+}
+
+.spec-align, .groupVibes{
+    display: flex;
+    align-items:center;
+}
+
+.span-text{
+    padding-left: 30px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+}
+
+.vibeImage{
+    width: 100px;
+    height: 100px;
+    padding-left: 25px;
+}
+
+.vibe-text{
+    font-size: 16px;
+    padding-left: 30px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    line-height: 5px;
+
+}
+
+
+
+
+
+
+
+
+
+
